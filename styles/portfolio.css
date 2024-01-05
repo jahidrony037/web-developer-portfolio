@@ -269,6 +269,9 @@ footer {
   margin-top: 24px;
   margin-bottom: 24px;
 }
+input {
+  padding-left: 18px;
+}
 
 .message {
   width: 461px;
