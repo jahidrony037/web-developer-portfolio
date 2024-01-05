@@ -249,6 +249,11 @@ footer {
   margin-left: 24px;
   margin-right: 24px;
 }
+.email,
+.name,
+.message {
+  display: block;
+}
 
 .email,
 .name {
